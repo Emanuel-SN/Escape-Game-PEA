@@ -1,0 +1,21 @@
+{
+  "title": "Energia & Sustentabilidade — exemplo",
+  "rounds": [
+    {
+      "round_number": 1,
+      "prompt": "Qual fonte transforma a luz do sol em eletricidade?",
+      "answer": "SOLAR",
+      "accepted_answers": ["ENERGIA SOLAR", "FOTOVOLTAICA"],
+      "hints": ["É uma fonte renovável", "Usa módulos fotovoltaicos", "A resposta tem cinco letras"],
+      "time_limit_seconds": 180
+    }
+  ],
+  "settings": {
+    "cooldown_seconds": 3,
+    "max_attempts": 40,
+    "accent_insensitive": true,
+    "late_join": true,
+    "lock_room": false,
+    "total_rounds": 1
+  }
+}
